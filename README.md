@@ -1,4 +1,4 @@
-# LeetCode Grind: Lead Engineer Edition 🚀
+# LeetCode Grind: 100 Days Edition 🚀
 
 Because apparently, we need to reverse binary trees to prove we can build production systems.
 
